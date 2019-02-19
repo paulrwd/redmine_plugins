@@ -8,3 +8,5 @@ Redmine::Plugin.register :jump_issues_jumpbox do
 end
 
 require_relative 'lib/jump_to_issues_jumpbox'
+
+#com
